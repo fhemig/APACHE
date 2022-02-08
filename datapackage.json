@@ -32,5 +32,11 @@
       "title": "Creative Commons Attribution 4.0",
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
-  ]
+  ],
+  "ckan_hosts": {
+    "https://homologa.cge.mg.gov.br": {
+      "apache_2021": "ecdc2f86-648a-4fa1-bbfb-e7c79e833301",
+      "datapackage.json": "0a8eab13-993f-46e9-83e9-6680ffd8f1fd"
+    }
+  }
 }
