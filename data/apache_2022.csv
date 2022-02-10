@@ -1,57 +1,57 @@
 unidade;mes;ano;grau;escore;predicao_obito;saidas;obitos_ocorridos;obitos_esperados
 HGBJA;janeiro;2022;I;0 a 4;4;0;0;0
-HGBJA;janeiro;2022;II;5 a 9;8;0;0;0
-HGBJA;janeiro;2022;III;10 a 14;15;0;0;0
-HGBJA;janeiro;2022;IV;15 a 19;25;0;0;0
-HGBJA;janeiro;2022;V;20 a 24;40;0;0;0
-HGBJA;janeiro;2022;VI;25 a 29;55;0;0;0
-HGBJA;janeiro;2022;VII;30 a 34;75;0;0;0
+HGBJA;janeiro;2022;II;5 a 9;8;3;2;0,24
+HGBJA;janeiro;2022;III;10 a 14;15;5;0;0,75
+HGBJA;janeiro;2022;IV;15 a 19;25;4;1;1
+HGBJA;janeiro;2022;V;20 a 24;40;3;1;1,2
+HGBJA;janeiro;2022;VI;25 a 29;55;2;1;1,1
+HGBJA;janeiro;2022;VII;30 a 34;75;1;1;0,75
 HGBJA;janeiro;2022;VIII;> 34;85;0;0;0
 HJK;janeiro;2022;I;0 a 4;4;0;0;0
-HJK;janeiro;2022;II;5 a 9;8;0;0;0
-HJK;janeiro;2022;III;10 a 14;15;0;0;0
-HJK;janeiro;2022;IV;15 a 19;25;0;0;0
-HJK;janeiro;2022;V;20 a 24;40;0;0;0
-HJK;janeiro;2022;VI;25 a 29;55;0;0;0
-HJK;janeiro;2022;VII;30 a 34;75;0;0;0
-HJK;janeiro;2022;VIII;> 34;85;0;0;0
+HJK;janeiro;2022;II;5 a 9;8;12;0;0,96
+HJK;janeiro;2022;III;10 a 14;15;31;3;4,65
+HJK;janeiro;2022;IV;15 a 19;25;28;5;7
+HJK;janeiro;2022;V;20 a 24;40;14;2;5,6
+HJK;janeiro;2022;VI;25 a 29;55;14;4;7,7
+HJK;janeiro;2022;VII;30 a 34;75;6;4;4,5
+HJK;janeiro;2022;VIII;> 34;85;5;1;4,25
 HRAD;janeiro;2022;I;0 a 4;4;0;0;0
 HRAD;janeiro;2022;II;5 a 9;8;0;0;0
-HRAD;janeiro;2022;III;10 a 14;15;0;0;0
-HRAD;janeiro;2022;IV;15 a 19;25;0;0;0
-HRAD;janeiro;2022;V;20 a 24;40;0;0;0
-HRAD;janeiro;2022;VI;25 a 29;55;0;0;0
-HRAD;janeiro;2022;VII;30 a 34;75;0;0;0
+HRAD;janeiro;2022;III;10 a 14;15;2;1;0,3
+HRAD;janeiro;2022;IV;15 a 19;25;5;0;1,25
+HRAD;janeiro;2022;V;20 a 24;40;6;3;2,4
+HRAD;janeiro;2022;VI;25 a 29;55;2;2;1,1
+HRAD;janeiro;2022;VII;30 a 34;75;4;3;3
 HRAD;janeiro;2022;VIII;> 34;85;0;0;0
-HJXXIII;janeiro;2022;I;0 a 4;4;0;0;0
-HJXXIII;janeiro;2022;II;5 a 9;8;0;0;0
-HJXXIII;janeiro;2022;III;10 a 14;15;0;0;0
-HJXXIII;janeiro;2022;IV;15 a 19;25;0;0;0
-HJXXIII;janeiro;2022;V;20 a 24;40;0;0;0
-HJXXIII;janeiro;2022;VI;25 a 29;55;0;0;0
-HJXXIII;janeiro;2022;VII;30 a 34;75;0;0;0
+HJXXIII;janeiro;2022;I;0 a 4;4;6;0;0,24
+HJXXIII;janeiro;2022;II;5 a 9;8;16;0;1,28
+HJXXIII;janeiro;2022;III;10 a 14;15;38;1;5,7
+HJXXIII;janeiro;2022;IV;15 a 19;25;55;9;13,75
+HJXXIII;janeiro;2022;V;20 a 24;40;18;6;7,2
+HJXXIII;janeiro;2022;VI;25 a 29;55;13;10;7,15
+HJXXIII;janeiro;2022;VII;30 a 34;75;4;2;3
 HJXXIII;janeiro;2022;VIII;> 34;85;0;0;0
 HEM;janeiro;2022;I;0 a 4;4;0;0;0
-HEM;janeiro;2022;II;5 a 9;8;0;0;0
-HEM;janeiro;2022;III;10 a 14;15;0;0;0
-HEM;janeiro;2022;IV;15 a 19;25;0;0;0
-HEM;janeiro;2022;V;20 a 24;40;0;0;0
-HEM;janeiro;2022;VI;25 a 29;55;0;0;0
-HEM;janeiro;2022;VII;30 a 34;75;0;0;0
-HEM;janeiro;2022;VIII;> 34;85;0;0;0
-HAC;janeiro;2022;I;0 a 4;4;0;0;0
-HAC;janeiro;2022;II;5 a 9;8;0;0;0
-HAC;janeiro;2022;III;10 a 14;15;0;0;0
-HAC;janeiro;2022;IV;15 a 19;25;0;0;0
-HAC;janeiro;2022;V;20 a 24;40;0;0;0
-HAC;janeiro;2022;VI;25 a 29;55;0;0;0
-HAC;janeiro;2022;VII;30 a 34;75;0;0;0
-HAC;janeiro;2022;VIII;> 34;85;0;0;0
+HEM;janeiro;2022;II;5 a 9;8;4;0;0,32
+HEM;janeiro;2022;III;10 a 14;15;14;0;2,1
+HEM;janeiro;2022;IV;15 a 19;25;17;3;4,25
+HEM;janeiro;2022;V;20 a 24;40;9;3;3,6
+HEM;janeiro;2022;VI;25 a 29;55;11;8;6,05
+HEM;janeiro;2022;VII;30 a 34;75;3;2;2,25
+HEM;janeiro;2022;VIII;> 34;85;2;1;1,7
+HAC;janeiro;2022;I;0 a 4;4;;;
+HAC;janeiro;2022;II;5 a 9;8;;;
+HAC;janeiro;2022;III;10 a 14;15;;;
+HAC;janeiro;2022;IV;15 a 19;25;;;
+HAC;janeiro;2022;V;20 a 24;40;;;
+HAC;janeiro;2022;VI;25 a 29;55;;;
+HAC;janeiro;2022;VII;30 a 34;75;;;
+HAC;janeiro;2022;VIII;> 34;85;;;
 HRJP;janeiro;2022;I;0 a 4;4;0;0;0
-HRJP;janeiro;2022;II;5 a 9;8;0;0;0
-HRJP;janeiro;2022;III;10 a 14;15;0;0;0
-HRJP;janeiro;2022;IV;15 a 19;25;0;0;0
-HRJP;janeiro;2022;V;20 a 24;40;0;0;0
-HRJP;janeiro;2022;VI;25 a 29;55;0;0;0
-HRJP;janeiro;2022;VII;30 a 34;75;0;0;0
+HRJP;janeiro;2022;II;5 a 9;8;3;0;0,24
+HRJP;janeiro;2022;III;10 a 14;15;4;0;0,6
+HRJP;janeiro;2022;IV;15 a 19;25;5;1;1,25
+HRJP;janeiro;2022;V;20 a 24;40;4;1;1,6
+HRJP;janeiro;2022;VI;25 a 29;55;2;1;1,1
+HRJP;janeiro;2022;VII;30 a 34;75;5;1;3,75
 HRJP;janeiro;2022;VIII;> 34;85;0;0;0
