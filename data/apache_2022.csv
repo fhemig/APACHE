@@ -1,0 +1,57 @@
+unidade;mes;ano;grau;escore;predicao_obito;saidas;obitos_ocorridos;obitos_esperados
+HGBJA;janeiro;2022;I;0 a 4;4;0;0;0
+HGBJA;janeiro;2022;II;5 a 9;8;0;0;0
+HGBJA;janeiro;2022;III;10 a 14;15;0;0;0
+HGBJA;janeiro;2022;IV;15 a 19;25;0;0;0
+HGBJA;janeiro;2022;V;20 a 24;40;0;0;0
+HGBJA;janeiro;2022;VI;25 a 29;55;0;0;0
+HGBJA;janeiro;2022;VII;30 a 34;75;0;0;0
+HGBJA;janeiro;2022;VIII;> 34;85;0;0;0
+HJK;janeiro;2022;I;0 a 4;4;0;0;0
+HJK;janeiro;2022;II;5 a 9;8;0;0;0
+HJK;janeiro;2022;III;10 a 14;15;0;0;0
+HJK;janeiro;2022;IV;15 a 19;25;0;0;0
+HJK;janeiro;2022;V;20 a 24;40;0;0;0
+HJK;janeiro;2022;VI;25 a 29;55;0;0;0
+HJK;janeiro;2022;VII;30 a 34;75;0;0;0
+HJK;janeiro;2022;VIII;> 34;85;0;0;0
+HRAD;janeiro;2022;I;0 a 4;4;0;0;0
+HRAD;janeiro;2022;II;5 a 9;8;0;0;0
+HRAD;janeiro;2022;III;10 a 14;15;0;0;0
+HRAD;janeiro;2022;IV;15 a 19;25;0;0;0
+HRAD;janeiro;2022;V;20 a 24;40;0;0;0
+HRAD;janeiro;2022;VI;25 a 29;55;0;0;0
+HRAD;janeiro;2022;VII;30 a 34;75;0;0;0
+HRAD;janeiro;2022;VIII;> 34;85;0;0;0
+HJXXIII;janeiro;2022;I;0 a 4;4;0;0;0
+HJXXIII;janeiro;2022;II;5 a 9;8;0;0;0
+HJXXIII;janeiro;2022;III;10 a 14;15;0;0;0
+HJXXIII;janeiro;2022;IV;15 a 19;25;0;0;0
+HJXXIII;janeiro;2022;V;20 a 24;40;0;0;0
+HJXXIII;janeiro;2022;VI;25 a 29;55;0;0;0
+HJXXIII;janeiro;2022;VII;30 a 34;75;0;0;0
+HJXXIII;janeiro;2022;VIII;> 34;85;0;0;0
+HEM;janeiro;2022;I;0 a 4;4;0;0;0
+HEM;janeiro;2022;II;5 a 9;8;0;0;0
+HEM;janeiro;2022;III;10 a 14;15;0;0;0
+HEM;janeiro;2022;IV;15 a 19;25;0;0;0
+HEM;janeiro;2022;V;20 a 24;40;0;0;0
+HEM;janeiro;2022;VI;25 a 29;55;0;0;0
+HEM;janeiro;2022;VII;30 a 34;75;0;0;0
+HEM;janeiro;2022;VIII;> 34;85;0;0;0
+HAC;janeiro;2022;I;0 a 4;4;0;0;0
+HAC;janeiro;2022;II;5 a 9;8;0;0;0
+HAC;janeiro;2022;III;10 a 14;15;0;0;0
+HAC;janeiro;2022;IV;15 a 19;25;0;0;0
+HAC;janeiro;2022;V;20 a 24;40;0;0;0
+HAC;janeiro;2022;VI;25 a 29;55;0;0;0
+HAC;janeiro;2022;VII;30 a 34;75;0;0;0
+HAC;janeiro;2022;VIII;> 34;85;0;0;0
+HRJP;janeiro;2022;I;0 a 4;4;0;0;0
+HRJP;janeiro;2022;II;5 a 9;8;0;0;0
+HRJP;janeiro;2022;III;10 a 14;15;0;0;0
+HRJP;janeiro;2022;IV;15 a 19;25;0;0;0
+HRJP;janeiro;2022;V;20 a 24;40;0;0;0
+HRJP;janeiro;2022;VI;25 a 29;55;0;0;0
+HRJP;janeiro;2022;VII;30 a 34;75;0;0;0
+HRJP;janeiro;2022;VIII;> 34;85;0;0;0
