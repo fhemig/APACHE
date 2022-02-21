@@ -6,7 +6,7 @@
       "path": "data/apache_2021.csv",
       "profile": "tabular-data-resource",
       "schema": "data/schema.json",
-      "title": "APACHE",
+      "title": "APACHE 2021",
       "format": "csv",
       "encoding": "UTF-8",
       "description": "ÍNDICE APACHE é um sistema médico de classificação que determina os índices de gravidade de um paciente internado em uma Unidade de Terapia Intensiva (UTI).  Recomendado pelo Ministério da Saúde, o índice é calculado a partir da soma de 12 critérios clínicos, fisiológicos e laboratoriais que determinam a criticidade do quadro do paciente e o risco de óbito nas primeiras 24 horas de UTI. Para cada pontuação final calcula-se a probabilidade de sobrevida do paciente."
@@ -26,7 +26,7 @@
     "APACHE"
   ],
   "name": "apache",
-  "title": "APACHE",
+  "title": "APACHE 2022",
   "description": "APACHE",
   "homepage": "https://github.com/fhemig",
   "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
@@ -45,8 +45,9 @@
   ],
   "ckan_hosts": {
     "https://homologa.cge.mg.gov.br": {
-      "apache_2021": "ecdc2f86-648a-4fa1-bbfb-e7c79e833301",
-      "datapackage.json": "0a8eab13-993f-46e9-83e9-6680ffd8f1fd"
+      "apache_2021": "c832e282-0182-4a64-b73a-a734f3736433",
+      "apache_2022": "9f86d864-a06a-402b-8a1d-663ff79d0c95",
+      "datapackage.json": "5910008b-3271-447d-ad1e-640755124f24"
     }
   }
 }
