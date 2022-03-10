@@ -5,7 +5,7 @@
       "name": "apache_2018",
       "path": "data/apache_2018.csv",
       "profile": "tabular-data-resource",
-      "schema": "data/schema.json",
+      "schema": "schemas/schema_v1.json",
       "title": "APACHE 2018",
       "format": "csv",
       "encoding": "UTF-8",
@@ -15,7 +15,7 @@
       "name": "apache_2019",
       "path": "data/apache_2019.csv",
       "profile": "tabular-data-resource",
-      "schema": "data/schema.json",
+      "schema": "schemas/schema_v1.json",
       "title": "APACHE 2019",
       "format": "csv",
       "encoding": "UTF-8",
@@ -25,7 +25,7 @@
       "name": "apache_2020",
       "path": "data/apache_2020.csv",
       "profile": "tabular-data-resource",
-      "schema": "data/schema.json",
+      "schema": "schemas/schema_v1.json",
       "title": "APACHE 2020",
       "format": "csv",
       "encoding": "UTF-8",
@@ -35,7 +35,7 @@
       "name": "apache_2021",
       "path": "data/apache_2021.csv",
       "profile": "tabular-data-resource",
-      "schema": "data/schema.json",
+      "schema": "schemas/schema_v1.json",
       "title": "APACHE 2021",
       "format": "csv",
       "encoding": "UTF-8",
@@ -45,7 +45,7 @@
       "name": "apache_2022",
       "path": "data/apache_2022.csv",
       "profile": "tabular-data-resource",
-      "schema": "data/schema.json",
+      "schema": "schemas/schema_v1.json",
       "title": "APACHE 2022",
       "format": "csv",
       "encoding": "UTF-8",
@@ -72,12 +72,5 @@
       "title": "Creative Commons Attribution 4.0",
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
-  ],
-  "ckan_hosts": {
-    "https://homologa.cge.mg.gov.br": {
-      "apache_2021": "c832e282-0182-4a64-b73a-a734f3736433",
-      "apache_2022": "9f86d864-a06a-402b-8a1d-663ff79d0c95",
-      "datapackage.json": "5910008b-3271-447d-ad1e-640755124f24"
-    }
-  }
+  ]
 }
