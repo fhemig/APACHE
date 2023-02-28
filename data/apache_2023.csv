@@ -1,0 +1,65 @@
+unidade;mes;ano;grau;escore;predicao_obito;saidas;obitos_ocorridos;obitos_esperados
+HAC;Janeiro;2023;I;0 a 4;4;1;0;0,04
+HAC;Janeiro;2023;II;5 a 9;8;2;0;0,16
+HAC;Janeiro;2023;III;10 a 14;15;12;2;1,8
+HAC;Janeiro;2023;IV;15 a 19;25;12;2;3
+HAC;Janeiro;2023;V;20 a 24;40;7;2;2,8
+HAC;Janeiro;2023;VI;25 a 29;55;2;1;1,1
+HAC;Janeiro;2023;VII;30 a 34;75;0;0;0
+HAC;Janeiro;2023;VIII;> 34;85;1;1;0,85
+HEM;Janeiro;2023;I;0 a 4;4;0;0;0
+HEM;Janeiro;2023;II;5 a 9;8;0;0;0
+HEM;Janeiro;2023;III;10 a 14;15;8;0;1,2
+HEM;Janeiro;2023;IV;15 a 19;25;11;2;2,75
+HEM;Janeiro;2023;V;20 a 24;40;5;0;2
+HEM;Janeiro;2023;VI;25 a 29;55;7;4;3,85
+HEM;Janeiro;2023;VII;30 a 34;75;2;2;1,5
+HEM;Janeiro;2023;VIII;> 34;85;1;1;0,85
+HJK;Janeiro;2023;I;0 a 4;4;0;0;0
+HJK;Janeiro;2023;II;5 a 9;8;2;0;0,16
+HJK;Janeiro;2023;III;10 a 14;15;10;0;1,5
+HJK;Janeiro;2023;IV;15 a 19;25;11;2;2,75
+HJK;Janeiro;2023;V;20 a 24;40;11;1;4,4
+HJK;Janeiro;2023;VI;25 a 29;55;3;2;1,65
+HJK;Janeiro;2023;VII;30 a 34;75;4;2;3
+HJK;Janeiro;2023;VIII;> 34;85;0;0;0
+HJXXIII;Janeiro;2023;I;0 a 4;4;13;0;0,52
+HJXXIII;Janeiro;2023;II;5 a 9;8;31;1;2,48
+HJXXIII;Janeiro;2023;III;10 a 14;15;50;2;7,5
+HJXXIII;Janeiro;2023;IV;15 a 19;25;32;3;8
+HJXXIII;Janeiro;2023;V;20 a 24;40;13;4;5,2
+HJXXIII;Janeiro;2023;VI;25 a 29;55;9;4;4,95
+HJXXIII;Janeiro;2023;VII;30 a 34;75;3;3;2,25
+HJXXIII;Janeiro;2023;VIII;> 34;85;1;1;0,85
+HRAD;Janeiro;2023;I;0 a 4;4;0;0;0
+HRAD;Janeiro;2023;II;5 a 9;8;0;0;0
+HRAD;Janeiro;2023;III;10 a 14;15;5;0;0,75
+HRAD;Janeiro;2023;IV;15 a 19;25;5;1;1,25
+HRAD;Janeiro;2023;V;20 a 24;40;5;0;2
+HRAD;Janeiro;2023;VI;25 a 29;55;3;3;1,65
+HRAD;Janeiro;2023;VII;30 a 34;75;0;0;0
+HRAD;Janeiro;2023;VIII;> 34;85;1;1;0,85
+HRBJA;Janeiro;2023;I;0 a 4;4;0;0;0
+HRBJA;Janeiro;2023;II;5 a 9;8;1;0;0,08
+HRBJA;Janeiro;2023;III;10 a 14;15;4;1;0,6
+HRBJA;Janeiro;2023;IV;15 a 19;25;6;2;1,5
+HRBJA;Janeiro;2023;V;20 a 24;40;8;4;3,2
+HRBJA;Janeiro;2023;VI;25 a 29;55;0;0;0
+HRBJA;Janeiro;2023;VII;30 a 34;75;0;0;0
+HRBJA;Janeiro;2023;VIII;> 34;85;0;0;0
+HRJP;Janeiro;2023;I;0 a 4;4;1;0;0,04
+HRJP;Janeiro;2023;II;5 a 9;8;6;1;0,48
+HRJP;Janeiro;2023;III;10 a 14;15;6;0;0,9
+HRJP;Janeiro;2023;IV;15 a 19;25;1;1;0,25
+HRJP;Janeiro;2023;V;20 a 24;40;2;1;0,8
+HRJP;Janeiro;2023;VI;25 a 29;55;2;2;1,1
+HRJP;Janeiro;2023;VII;30 a 34;75;0;0;0
+HRJP;Janeiro;2023;VIII;> 34;85;0;0;0
+MOV;Janeiro;2023;I;0 a 4;4;1;0;0,04
+MOV;Janeiro;2023;II;5 a 9;8;3;0;0,24
+MOV;Janeiro;2023;III;10 a 14;15;7;0;1,05
+MOV;Janeiro;2023;IV;15 a 19;25;10;0;2,5
+MOV;Janeiro;2023;V;20 a 24;40;5;0;2
+MOV;Janeiro;2023;VI;25 a 29;55;1;0;0,55
+MOV;Janeiro;2023;VII;30 a 34;75;0;0;0
+MOV;Janeiro;2023;VIII;> 34;85;0;0;0

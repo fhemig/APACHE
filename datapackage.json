@@ -50,6 +50,16 @@
       "format": "csv",
       "encoding": "UTF-8",
       "description": "ÍNDICE APACHE é um sistema médico de classificação que determina os índices de gravidade de um paciente internado em uma Unidade de Terapia Intensiva (UTI).  Recomendado pelo Ministério da Saúde, o índice é calculado a partir da soma de 12 critérios clínicos, fisiológicos e laboratoriais que determinam a criticidade do quadro do paciente e o risco de óbito nas primeiras 24 horas de UTI. Para cada pontuação final calcula-se a probabilidade de sobrevida do paciente."
+    },
+    {
+      "name": "apache_2023",
+      "path": "data/apache_2023.csv",
+      "profile": "tabular-data-resource",
+      "schema": "schemas/schema_v1.json",
+      "title": "APACHE 2023",
+      "format": "csv",
+      "encoding": "UTF-8",
+      "description": "ÍNDICE APACHE é um sistema médico de classificação que determina os índices de gravidade de um paciente internado em uma Unidade de Terapia Intensiva (UTI).  Recomendado pelo Ministério da Saúde, o índice é calculado a partir da soma de 12 critérios clínicos, fisiológicos e laboratoriais que determinam a criticidade do quadro do paciente e o risco de óbito nas primeiras 24 horas de UTI. Para cada pontuação final calcula-se a probabilidade de sobrevida do paciente."
     }
   ],
   "keywords": [
@@ -63,7 +73,7 @@
   "frequência de atualização":"mensal",
    "temporal": {
     "start": "2018-01-01",
-    "end": "2022-12-31"
+    "end": "2023-01-31"
   },
   "contributors": [
     {
